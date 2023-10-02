@@ -33,7 +33,7 @@ BannedSpells <-
 //  SPELL_FIREBALL,
 //  SPELL_BATS,
 //  SPELL_OVERHEAL,
-    SPELL_PUMPKIN_BOMBS,
+//  SPELL_PUMPKIN_BOMBS,
 //  SPELL_BLASTJUMP,
 //  SPELL_STEALTH,
 //  SPELL_TELEPORT,
@@ -44,8 +44,8 @@ BannedSpells <-
  // SPELL_LIGHTNING_BALL,
  // SPELL_ATHLETIC,
  // SPELL_METEOR,
-    SPELL_MONOCULUS,
-    SPELL_SKELETON
+ // SPELL_MONOCULUS,
+ // SPELL_SKELETON
 ];
 
 if ( !( "SpellCheckLoaded" in getroottable() ) )
