@@ -1,6 +1,8 @@
 # vscript-spell-banlist
  add halloween spells to a banlist and swap them out automatically for an appropriate substitute
 
+ PLEASE read the whole readme or you wont understand what to do!!
+
 free to use for anyone for commerical or non commerical
 
 to make this work all you need to do is:
