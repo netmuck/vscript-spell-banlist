@@ -13,7 +13,7 @@ thinkfunction - OnTick
 vscripts      - spellcheck.nut
 
 here's an image of how it should look (with smart edit disabled)
-![a screenshot of object properties describing the above configuration](kvs.png)
+![a screenshot of object properties describing the above configuration](image.png)
 
 3) to configure which spells you want to disable, simply comment/uncomment spell names in the BannedSpells array
 
